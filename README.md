@@ -30,6 +30,4 @@ This project focuses on understanding the complete regression workflow, proper p
 ## Author
 Naja Nesrin
 
-git clone https://github.com/<najanezrin>/diamond-price-prediction-linear-regression.git
-cd diamond-price-prediction-linear-regression
 
