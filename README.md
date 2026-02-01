@@ -26,3 +26,10 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Key Learning
 This project focuses on understanding the complete regression workflow, proper preprocessing, and the limitations of Linear Regression on non-linear data.
+
+## Author
+Naja Nesrin
+
+git clone https://github.com/<najanezrin>/diamond-price-prediction-linear-regression.git
+cd diamond-price-prediction-linear-regression
+
